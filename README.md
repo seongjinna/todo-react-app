@@ -1,5 +1,7 @@
 # todo-react-app
-- 
+- React.js를 이용한 TODO 애플리케이션 개발
+- Spring Boot REST API 연동
+  (https://github.com/seongjinna/spring-boot-rest-api)
 
 ## Getting Started
 - npx create-react-app todo-react-app
