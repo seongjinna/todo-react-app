@@ -19,7 +19,7 @@ class Login extends React.Component {
 
     render() {
         return (
-            <Container component="main" maxWidth="xs" style={{ marginTop: "8%" }}>
+            <Container component="main" maxWidth="xs" style={{ marginTop: "8%", marginBottom: "20px" }}>
                 <Grid container spacing={2}>
                     <Grid item xs={12}>
                         <Typography component="h1" variant="h5">
